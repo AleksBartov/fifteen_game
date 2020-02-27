@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fifteen-game/static/css/main.251bd3d3.chunk.css",
+    "main.js": "/fifteen-game/static/js/main.82e5a083.chunk.js",
+    "main.js.map": "/fifteen-game/static/js/main.82e5a083.chunk.js.map",
+    "runtime-main.js": "/fifteen-game/static/js/runtime-main.9f385c5d.js",
+    "runtime-main.js.map": "/fifteen-game/static/js/runtime-main.9f385c5d.js.map",
+    "static/js/2.b8a1921d.chunk.js": "/fifteen-game/static/js/2.b8a1921d.chunk.js",
+    "static/js/2.b8a1921d.chunk.js.map": "/fifteen-game/static/js/2.b8a1921d.chunk.js.map",
+    "index.html": "/fifteen-game/index.html",
+    "precache-manifest.68d9019ca4cebfa7dec630ff197d0bda.js": "/fifteen-game/precache-manifest.68d9019ca4cebfa7dec630ff197d0bda.js",
+    "service-worker.js": "/fifteen-game/service-worker.js",
+    "static/css/main.251bd3d3.chunk.css.map": "/fifteen-game/static/css/main.251bd3d3.chunk.css.map",
+    "static/js/2.b8a1921d.chunk.js.LICENSE.txt": "/fifteen-game/static/js/2.b8a1921d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f385c5d.js",
+    "static/js/2.b8a1921d.chunk.js",
+    "static/css/main.251bd3d3.chunk.css",
+    "static/js/main.82e5a083.chunk.js"
+  ]
+}
